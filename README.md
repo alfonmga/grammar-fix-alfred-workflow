@@ -6,11 +6,7 @@
 > [Alfred](https://www.alfredapp.com) workflow for quickly fixing grammar 
 mistakes.
 
-
-
-https://github.com/alfonmga/grammar-fix-alfred-workflow/assets/9363272/59234f54-cfdf-4903-b138-749273d1ed29
-
-
+https://github.com/alfonmga/grammar-fix-alfred-workflow/assets/9363272/c7c01c8f-5ff6-4c88-b7c3-04db6384973b
 
 ## Install
 
